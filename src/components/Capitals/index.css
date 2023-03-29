@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-container {
+  background-color: #f8fafc;
+  width: 95%;
+  max-width: 400px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.heading {
+  font-size: 24px;
+  color: #000000;
+  font-weight: 500;
+}
+.Quetion-Container {
+  display: flex;
+}
+.quation-text {
+  color: #1e293b;
+  margin-left: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.contry-result-name {
+  color: #323f4b;
+  font-size: 20px;
+  font-weight: 500;
+}
+.dropDown-container {
+  /* width: 200px; */
+  width: 40%;
+  border-radius: 5px;
+  padding-left: 10px;
+  font-size: 13x;
+  font-weight: 700;
+  color: #000000;
+  /* line-height: 80px; */
+}
+option {
+  font-size: 14px;
+  color: #1e293b;
+  line-height: 30px;
+}
